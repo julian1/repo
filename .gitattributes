@@ -1,0 +1,7 @@
+
+# catchall
+* gitattributes filter=git-crypt diff=git-crypt
+
+# must be last
+.gitattributes !filter !diff
+
