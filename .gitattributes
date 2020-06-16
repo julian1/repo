@@ -2,6 +2,6 @@
 # catchall
 * gitattributes filter=git-crypt diff=git-crypt
 
-# must be last
+# probably needs to be last
 .gitattributes !filter !diff
 
